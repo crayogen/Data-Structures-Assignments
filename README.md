@@ -1,4 +1,4 @@
-# Data-Structures-Assignments
+# Data Structures Assignments
 Data Structures Assignments in C language, including implemention of ADTS, sorting algorithms and some algorithms pertaining to a Graph Data Structure.
 
 ADTS include:
