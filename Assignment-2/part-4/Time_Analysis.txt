@@ -1,0 +1,55 @@
+Time (sec) taken by BST (t1)
+findWord() took 5e-06 sec to search for awakening
+findWord() took 2e-05 sec to search for backstromite
+findWord() took 4e-06 sec to search for clearings
+findWord() took 4e-06 sec to search for dead-stick
+findWord() took 4e-06 sec to search for epaule
+findWord() took 4e-06 sec to search for flagfishes
+findWord() took 3e-06 sec to search for galvanisation
+findWord() took 3e-06 sec to search for hypodiazeuxis
+findWord() took 3e-06 sec to search for impotentness
+findWord() took 4e-06 sec to search for jeroboams
+findWord() took 3e-06 sec to search for kindergartner
+findWord() took 5e-06 sec to search for lackadaisy
+findWord() took 4e-06 sec to search for mortiferous
+findWord() took 4e-06 sec to search for nonplatitudinous
+findWord() took 3e-06 sec to search for overlooseness
+findWord() took 4e-06 sec to search for penny
+findWord() took 4e-06 sec to search for quasi-instructed
+findWord() took 5e-06 sec to search for re-extent
+findWord() took 3e-06 sec to search for superrich
+findWord() took 4e-06 sec to search for twenty-one
+findWord() took 2e-06 sec to search for urchin
+findWord() took 3e-06 sec to search for vesiculiferous
+findWord() took 3e-06 sec to search for whamming
+findWord() took 3e-06 sec to search for xerotripsis
+findWord() took 2e-06 sec to search for yardage
+findWord() took 4e-06 sec to search for zaneta
+
+Time (sec) taken by AVL (t2)
+findWord() took 3e-06sec to search for awakening
+findWord() took 2e-06sec to search for backstromite
+findWord() took 4e-06sec to search for clearings
+findWord() took 4e-06sec to search for dead-stick
+findWord() took 3e-06sec to search for epaule
+findWord() took 3e-06sec to search for flagfishes
+findWord() took 4e-06sec to search for galvanisation
+findWord() took 3e-06sec to search for hypodiazeuxis
+findWord() took 3e-06sec to search for impotentness
+findWord() took 2e-06sec to search for jeroboams
+findWord() took 3e-06sec to search for kindergartner
+findWord() took 3e-06sec to search for lackadaisy
+findWord() took 3e-06sec to search for mortiferous
+findWord() took 3e-06sec to search for nonplatitudinous
+findWord() took 3e-06sec to search for overlooseness
+findWord() took 3e-06sec to search for penny
+findWord() took 4e-06sec to search for quasi-instructed
+findWord() took 3e-06sec to search for re-extent
+findWord() took 3e-06sec to search for superrich
+findWord() took 4e-06sec to search for twenty-one
+findWord() took 3e-06sec to search for urchin
+findWord() took 3e-06sec to search for vesiculiferous
+findWord() took 4e-06sec to search for whamming
+findWord() took 3e-06sec to search for xerotripsis
+findWord() took 3e-06sec to search for yardage
+findWord() took 3e-06sec to search for zaneta
